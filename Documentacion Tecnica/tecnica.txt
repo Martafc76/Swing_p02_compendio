@@ -1,2 +1,1 @@
-
-No se genera ningún documento al generar el javadoc.
+No se genera ningún documento al generar el javadoc, ya que cambie la ubicación del directorio y ahora no se genera bien.
