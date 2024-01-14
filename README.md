@@ -31,7 +31,7 @@ Practica GitHub_MarkDown_practica01
 * [Recursos adicionales](#Recursos-adicionales)
      * [Link a la propia pagina de GitHub](#Link-a-la-propia-pagina-de-GitHub)
 
-   ### DESCRIPCION DEL PROYECTO
+   ## DESCRIPCION DEL PROYECTO
    El proyecto trata sobre un programa de alquiler de habitaciones en un hotel, en el que rellenas datos personales, ademas de las características que quieres para tu habitación de hotel y el precio total.
    ## :hammer:Funcionalidades del proyecto
 
@@ -40,7 +40,7 @@ Practica GitHub_MarkDown_practica01
    - `Funcionalidad 2`: Elegir las preferencias para la habitación
    - `Funcionalidad 3`: Mostrar y rellenar datos personales y del alquiler
 
-   ### DESARROLLO DEL PROYECTO
+   ## DESARROLLO DEL PROYECTO
   Hay dos opciones, solo funciona alta pisos
   ![imagen](https://github.com/Martafc76/Swing_p02_compendio/assets/116271079/ad8a0a1e-9555-4188-8ffa-9e5fdff466f5)
 
@@ -66,7 +66,7 @@ Practica GitHub_MarkDown_practica01
 
 
 
-  ### DESPLIEGUE
+  ## DESPLIEGUE
      #### Windows
      ![imagen](https://github.com/Martafc76/Swing_p02_compendio/assets/116271079/1c0fca83-9187-432d-bd00-d013ba085703)
      ![imagen](https://github.com/Martafc76/Swing_p02_compendio/assets/116271079/78741607-4d2c-42f1-9705-867709557d18)
@@ -74,6 +74,24 @@ Practica GitHub_MarkDown_practica01
      #### Linea de comandos
      Se abre el cmd y se escribe los siguientes comandos
      ![imagen](https://github.com/Martafc76/Swing_p02_compendio/assets/116271079/4cb2ba71-5c82-4339-8aa1-00a21a3c2696)
+
+  ## CONSTRUIDO CON
+   * Eclipse
+   * java
+ 
+  ## VERSIONADO
+
+  ## Autores
+  * Marta Fernández Carrión
+ 
+  ## Licencia
+  [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+
+  ## Recursos adicionales
+     ### Link a la pagina
+        https://github.com/Martafc76/Swing_p02_compendio
+  
+        
      
 
   
