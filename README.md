@@ -20,26 +20,28 @@ Practica GitHub_MarkDown_practica01
       1.8.1.Link a la propia página de GitHub
 ##Índice
 
-*[Swing_p02_compendio](Swing_p02_compendio)
+* [Swing_p02_compendio](Swing_p02_compendio)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+* [Descripción del proyecto](#descripción-del-proyecto)
 
-*[Desarrollo del proyecto](#Desarrollo-del-proyecto)
+* [Desarrollo del proyecto](#Desarrollo-del-proyecto)
 
-*[Despliegue](#Despliegue)
-   *[Windows](#Windows)
-   *[Linea de comandos](#Linea-de-comandos)
+* [Despliegue](#Despliegue)
+  
+   * [Windows](#Windows)
+     
+   * [Linea de comandos](#Linea-de-comandos)
 
-*[Construido con](#construido-con)
+* [Construido con](#construido-con)
 
-*[Versionado](#versionado)
+* [Versionado](#versionado)
 
-*[Autores](#autores)
+* [Autores](#autores)
 
-*[Licencia](#licencia)
+* [Licencia](#licencia)
 
 * [Recursos adicionales](#Recursos-adicionales)
-     *[Link a la propia pagina de GitHub](#Link-a-la-propia-pagina-de-GitHub)
+     * [Link a la propia pagina de GitHub](#Link-a-la-propia-pagina-de-GitHub)
 
    ### DESCRIPCION DEL PROYECTO
    El proyecto trata sobre un programa de alquiler de habitaciones en un hotel, en el que rellenas datos personales, ademas de las características que quieres para tu habitación de hotel y el precio total.
