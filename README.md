@@ -23,9 +23,13 @@ Practica GitHub_MarkDown_practica01
    El proyecto trata sobre un programa de alquiler de habitaciones en un hotel, en el que rellenas datos personales, ademas de las características que quieres para tu habitación de hotel y el precio total.
    ## :hammer:Funcionalidades del proyecto
 
-    - `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción        de la funcionalidad 3
+   - `Funcionalidad 1`: Dar de alta a los pisos
+   - `Funcionalidad 2`: Botones para imprimir un documento, generar uno nuevo o guardar
+   - `Funcionalidad 2`: Elegir las preferencias para la habitación
+   - `Funcionalidad 3`: Mostrar y rellenar datos personales y del alquiler
 
-   ### Desarrollo del proyecto
+   ### DESARROLLO DEL PROYECTO
+   
 
    
    
