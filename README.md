@@ -1,6 +1,7 @@
 # Swing_p02_compendio
 Practica GitHub_MarkDown_practica01
 
+<h1 align="center"> Su título aquí </h1>
 1. Swing_p02_compendio
     1.1.Descripción del proyecto
     1.2.Desarrollo del proyecto
