@@ -6,19 +6,7 @@ Practica GitHub_MarkDown_practica01
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
 
-1. Swing_p02_compendio
-    1.1.Descripción del proyecto
-    1.2.Desarrollo del proyecto
-    1.3.Despliegue (como ejecutar la aplicación desde el ejecutable)
-      1.3.1.Windows
-      1.3.2.Línea de comandos
-    1.4.Construido con
-    1.5.Versionado
-    1.6.Autores
-    1.7.Licencia
-    1.8.Recursos adicionales:
-      1.8.1.Link a la propia página de GitHub
-##Índice
+## Índice
 
 * [Swing_p02_compendio](Swing_p02_compendio)
 
@@ -53,6 +41,18 @@ Practica GitHub_MarkDown_practica01
    - `Funcionalidad 3`: Mostrar y rellenar datos personales y del alquiler
 
    ### DESARROLLO DEL PROYECTO
+
+  ### Despliegue
+     #### Windows
+     ![imagen](https://github.com/Martafc76/Swing_p02_compendio/assets/116271079/1c0fca83-9187-432d-bd00-d013ba085703)
+     ![imagen](https://github.com/Martafc76/Swing_p02_compendio/assets/116271079/78741607-4d2c-42f1-9705-867709557d18)
+
+     #### Linea de comandos
+     Se abre el cmd y se escribe los siguientes comandos
+     ![imagen](https://github.com/Martafc76/Swing_p02_compendio/assets/116271079/4cb2ba71-5c82-4339-8aa1-00a21a3c2696)
+     
+
+  
    
 
    
